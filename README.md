@@ -1,16 +1,6 @@
 # :bomb: Atomic
 ## Modern Denial-of-service ToolKit
 
-
-<p align="center">
-  <img src="https://i.ibb.co/rFct6QX/LOGO.png">
-</p>
-
-# :computer: Main window
-<p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Atomic-Main.png">
-</p>
-
 # :satellite: Methods:
 | Method               |   Target   | Description |
 | ---------------------| -----------|-------------|
@@ -51,14 +41,4 @@
   * `python3 Atomic.py --help`
 
 # :phone: Example SMS & Call flood:
-```python3 Atomic.py --method SMS --time 20 --threads 15 --target +380123456789```
-
-<p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Atomic-SMS.png">
-</p>
-
-# :moneybag: Donate:
-* BTC - `bc1q3m8t7shcge2smsxwm2fnwlet3j8km9q6jeqw0l`
-* LTC - `LMcv6gt2YHDFR6t4Mb8SimKL4BsRzUpzKS`
-* TRX - `TCEo2JkogrpMkQUvEDZs2UhtYi7YgYbrV3`
-* ETH - `0xbf7DaCaa1b96d3B61A92418C09910EEAe1bb3C13`
+```python3 Atomic.py --method SMS --time 20 --threads 15 --target +2130123456789```
